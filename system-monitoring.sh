@@ -22,7 +22,7 @@ echo
 used_percentage=$(df -H | grep -w "/vagrant" | awk '{print $5}' | sed 's/%//')
 # Check if used percentage exceeds 60%
 if [ "$used_percentage" -gt 80 ]; then
-    echo "The vagrant directory usage is above 60% ($used_percentage%)." | mail -s "a subject" basekabouelnour@gmail.com
+    echo "The vagrant directory usage is above 60% ($used_percentage%)." | mail -s "a subject" sample@mail.com
     echo "<<<<< Email sent >>>>>> " >> system-monitoring.log 
 fi
 
