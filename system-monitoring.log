@@ -1,0 +1,294 @@
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:37:14     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:37:14     all    0.12    0.05    0.21    0.07    0.00    0.15    0.00    0.00    0.00   99.40
+  total        used        free   
+957         201         159   
+ 0           0         
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:40:01     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:40:01     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.40
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:40:01 UTC 2024 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:40:39     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:40:39     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.40
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:40:39 UTC 2024 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:40:41     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:40:41     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.40
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:40:41 UTC 2024 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:40:43     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:40:43     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.40
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:40:43 UTC 2024 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:40:43     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:40:43     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.40
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:40:43 UTC 2024 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:40:44     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:40:44     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.40
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:40:44 UTC 2024 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:41:30     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:41:30     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.41
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:41:30 UTC 2024 -----------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:42:50     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:42:50     all    0.12    0.05    0.20    0.07    0.00    0.16    0.00    0.00    0.00   99.41
+  total        used        free   
+957         201         159   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:42:50 UTC 2024 -----------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.6G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+11:47:19     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:47:19     all    0.11    0.04    0.19    0.06    0.00    0.16    0.00    0.00    0.00   99.44
+  total        used        free   
+957         202         158   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 11:47:19 UTC 2024 -------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.7G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+12:25:23     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:25:23     all    0.14    0.06    0.18    0.11    0.00    0.17    0.00    0.00    0.00   99.35
+  total        used        free   
+957         238         164   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 12:25:23 UTC 2024 -------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.7G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+12:29:38     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:29:38     all    0.13    0.06    0.17    0.10    0.00    0.17    0.00    0.00    0.00   99.37
+  total        used        free   
+957         233         168   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 12:29:38 UTC 2024 -------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.7G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+12:33:23     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:33:23     all    0.13    0.05    0.17    0.10    0.00    0.17    0.00    0.00    0.00   99.38
+  total        used        free   
+957         229         172   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 12:33:23 UTC 2024 -------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+# Disk Usage   ##################################################################################################
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.7G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+# CPU Usage    ##################################################################################################
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+12:42:34     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:42:34     all    0.12    0.05    0.16    0.09    0.00    0.17    0.00    0.00    0.00   99.40
+# Memory Usage ##################################################################################################
+  total        used        free   
+957         229         172   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 12:42:34 UTC 2024 -------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+# Disk Usage   ##################################################################################################
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.7G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+# CPU Usage    ##################################################################################################
+Linux 5.15.0-125-generic (Scripting-VM) 	12/04/24 	_x86_64_	(2 CPU)
+
+12:43:09     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:43:09     all    0.12    0.05    0.16    0.09    0.00    0.17    0.00    0.00    0.00   99.40
+# Memory Usage ##################################################################################################
+  total        used        free   
+957         229         172   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Wed Dec  4 12:43:09 UTC 2024 -------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+# Disk Usage   ##################################################################################################
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 101M  1.1M  100M   2% /run
+/dev/sda1              42G  2.7G   39G   7% /
+tmpfs                 502M     0  502M   0% /dev/shm
+tmpfs                 5.3M     0  5.3M   0% /run/lock
+home_vagrant_scripts  303G  190G  113G  63% /home/vagrant/scripts
+vagrant               303G  190G  113G  63% /vagrant
+tmpfs                 101M  4.1k  101M   1% /run/user/1000
+# CPU Usage    ##################################################################################################
+Linux 5.15.0-125-generic (Scripting-VM) 	12/06/24 	_x86_64_	(2 CPU)
+
+05:10:46     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+05:10:46     all    3.81    0.01    8.42    1.06    0.00    0.44    0.00    0.00    0.00   86.27
+# Memory Usage ##################################################################################################
+  total        used        free   
+957         176         426   
+ 0           0         
+-----------------------------------------------------------------------------------------------------------------
+report at Fri Dec  6 05:10:46 UTC 2024 -------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
